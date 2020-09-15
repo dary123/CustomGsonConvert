@@ -1,0 +1,3 @@
+include ':CustomGsonConvert'
+include ':app'
+rootProject.name = "customGsonConvert"
